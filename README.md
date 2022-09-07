@@ -1,0 +1,2 @@
+Dans le fichier src du projet vous pouvez retrouver l'intégralité des pages permettant d'afficher le formulaire d'inscription avec la prise en compte de la fonction 'useStatement'(mais qui ne marche pas en raison d'une absence de base de données).
+Il suffit de lancer le projet et de faire la commande npm start ou npm run serve afin de voir le formulaire d'inscription.
